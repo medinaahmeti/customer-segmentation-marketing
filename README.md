@@ -33,8 +33,7 @@ To run this project locally, follow these steps:
    ```
 
 ## Usage
-- Modify the parameters in the `config.py` file to adjust clustering settings.
-- Run `clustering_analysis.py` to generate customer segments.
+- Run scripts to generate customer segments.
 - Use the visualization scripts to analyze results and extract business insights.
 
 ## Results
